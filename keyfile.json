@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arcane-mission-413411",
+  "private_key_id": "24364fa463d5d94c5b59bfc4d5879b1fb0575edc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkW7O9UuQx7F9C\naRubPfMGnXNx1gNfreCWrQf2/6R6g3NmI2P8U3IdN1Bxf9r8iBNco4wp/XSRNUR4\nVA4/xHp/2JpLk/d0Fj0hEWLfzMXbs6NGUFkrquePSaOke3oPG2Sga0734r3m6G3J\nkUY4H7G6E5aJATWGDdZVhuxaa+xeWq3Tg2vpKBeVqNU7Ex/0K3Na/sKXINPKtu3k\nFCxIn24Ni+fUvV/HjXX3kKOK+Bvq3C06fHI4EbFLRLnouTTZN+kBOHwR34CLB++I\npxraYSeo/dZW3ty2ZV8Wir2zOPWiHBHTGtkdH1i/wyPf6wBarmCNbKTOk2xLlxuV\nxlX0INfTAgMBAAECggEABd3+KxZ/7eZNuj2tThvmhohtXBVzNmGrIEXaAG+8y+DQ\naEeAJLxH2RIl7X9ObnBfHJH8CW2yURKxOIhrn8wgQVsWmvcTwNGgagNIX8vcDk05\n2WM546ysqnlK/a6ou0xTicR646907v7CGI12j79V5VoYqBhidEAfNBtmaY3ruKx+\nVulxH0xhkQWNhEkKWLx/0I1kOkBemcpEvcuJ8UnquzCXOz1Anp+JaVZhpRoaRb/D\niJy1c8tZ/As52mw1ACdqYyDB2JclEnkk1O74R23fIpI/lWnzTPU0/3wj0R0nwgAj\nxDxSMY+6lJ0P7Dv5n7FLr3K9DDG4gN83isnfZpTY5QKBgQDaEQxgq2Xx+OSxqYsp\n7N3amNdPOgAyu68vEZIi03vhsELjvtL6nwUVjEZrVaoxCgvNJ/lIBgDHuABJB2oY\nM5gDMuCCF/I+JdbowRAvzJVBU2Qy5NxREAwP1E25Vp/ixCYkrtmXitce06FEYcme\nFJzgJdgUOHvAbJYoKQdcO6ShhwKBgQDA8ujXnvtyHHPDEsGBE9lhtkJIrB8rBrpu\n4VvuVsntTagrcUmOQtUUb+iPQfh4YYxyMhwUT2nYMCjuid8trYMrSURWZwZMxxpz\nmCzqrpSGC+pEjljpw/KQdIEL4l+Ht0pDi97yCEA5AnB9sF4hXcSIzbyrZx6nJ9tR\na5s6O1SaVQKBgQCOhmoCnMPKvRQsElYElu4Bu7et7ojGn+jF6MQMwxDK13tAgy49\n48Vc6gv0h07vMlO4SRIiwtmrr1VwZcov+zi1joEyRhhsCitGgTjlJN/AjJKGuRJO\nYSChD++k3Tsu6WjMvQM2iuZDHarfmNI/4dUOo21w+eHYSKBzqy1GWS0m7QKBgQCV\njvPaxpmirtkwOOaS1b7nFW41hG04XaO+9KHckZs9fLdAzTQ1uCoQCFpcSMd/ECXc\nEmlfeNrTPylLFMVQU7FbqRP2YS8p7h7bwPX4BtCLQssYzrmuoTrwq82nV5Wyzekb\niFyMgMa/KdvmIQIlnNgNLmPy/CBvct52MxGERp7ibQKBgDDuySEGXpAX3pcgaUr1\n6WDsAfy1p+zDZBpx/kHYqyJV2SMqWXaVIgvEU7IpU+ERpvrkLXcr0WP7CvvUgVsP\ngmAgUjF6GwufQKqWEyhRhD6q7UzoqinGJf+deXOcWKXnLM+RgmPHt4vwM/duMLBe\n62CQvTFdcIcbQBbDg5O5EPMc\n-----END PRIVATE KEY-----\n",
+  "client_email": "slumai@arcane-mission-413411.iam.gserviceaccount.com",
+  "client_id": "116763999674282661598",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/slumai%40arcane-mission-413411.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
