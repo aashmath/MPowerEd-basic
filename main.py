@@ -24,7 +24,7 @@ from google.cloud import speech
 import requests
 
 
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "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"
 
 
 
